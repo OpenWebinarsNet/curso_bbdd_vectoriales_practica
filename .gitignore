@@ -1,0 +1,4 @@
+shell.nix
+*/**/shell.nix
+inferencia_con_llamacpp/models/buenos/*
+*/**/.venv
