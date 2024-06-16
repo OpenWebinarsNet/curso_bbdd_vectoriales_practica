@@ -6,7 +6,7 @@ Repositorio que contiene los materiales didácticos de la parte práctica del  C
 
 - [Conoce tu hardware](./conoce_tu_hardware/)
 - [Inferencia con llama.cpp](./inferencia_con_llamacpp/)
-- [Framework de evaluación](./framework_de_evaluación/)
+- [Framework de evaluación](./framework_de_evaluacion/)
 
 # Instrucciones
 
