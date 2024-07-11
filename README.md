@@ -15,9 +15,8 @@ Repositorio que contiene los materiales didácticos de la parte práctica del  C
 
 > **NOTA**. El primer bloque, [**Conoce tu hardware**](./conoce_tu_hardware/), contiene distintos scripts de bash. En caso de que tu sistema operativo sea Windows o Mac, puede que tengas que adaptar dichos scripts para tu sistema operativo.
 
-# Material adicional
 
-# Índice de Enlaces
+# Material complementario para apoyar el aprendizaje
 
 ## Repositorios y Herramientas
 - [Napkin-Math](https://github.com/sirupsen/napkin-math) - Repositorio con cifras de latencia para hacer cálculos rápidos
